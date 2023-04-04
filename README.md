@@ -1,5 +1,6 @@
 # My_Websites
-A collection of my unfinished and finished Websites
+A collection of my unfinished and finished websites, all coded by me alone.
+Current Project: Notable Inc &copy; 2023 Professional Website Designers
 
 <img width="1440" alt="Screenshot 2023-04-04 at 17 13 24" src="https://user-images.githubusercontent.com/104099162/229853739-8fb2e1a6-e1a3-4cec-9da0-05e9915867e2.png">
 <img width="1440" alt="Screenshot 2023-04-04 at 17 13 53" src="https://user-images.githubusercontent.com/104099162/229853733-dae1b933-1941-4ebb-b816-00685a1577b7.png">
